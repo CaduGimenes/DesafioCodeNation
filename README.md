@@ -1,20 +1,16 @@
-# Welcome to DesafioCodeNation 👋
+# Bem Vindo ao Desafio CodeNation Criptografia de Júlio Cesar 👋
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
-> Desafio [ Coriptografia de Júlio proposto pela Codenation como parte do programa de aceleração AceleraDev. Para a resolução do desafio utilizei a NET como ferramenta principal. .NETCésar 
+> Desafio Criptografia de Júlio Cesar proposto pela Codenation como parte do programa de aceleração AceleraDev. Para a resolução do desafio utilizei a NET como ferramenta principal. .NETCésar 
 
-## Author
+## Autor
 
 👤 **Carlos Gimenes**
 
-* Website: CaduGimenes
 * Github: [@CaduGimenes](https://github.com/CaduGimenes)
 * LinkedIn: [@carlos-gimenes](https://linkedin.com/in/carlos-gimenes)
 
-## Show your support
+## Apoie
 
-Give a ⭐️ if this project helped you!
+De uma ⭐️ se esse projeto ajudou você!
 
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
